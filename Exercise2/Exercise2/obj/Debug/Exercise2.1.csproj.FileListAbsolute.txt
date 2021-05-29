@@ -1,0 +1,6 @@
+D:\C# Project\Exercise2\Exercise2\bin\Debug\Exercise2.exe
+D:\C# Project\Exercise2\Exercise2\bin\Debug\Exercise2.pdb
+D:\C# Project\Exercise2\Exercise2\obj\Debug\Exercise2.1.csprojAssemblyReference.cache
+D:\C# Project\Exercise2\Exercise2\obj\Debug\Exercise2.1.csproj.CoreCompileInputs.cache
+D:\C# Project\Exercise2\Exercise2\obj\Debug\Exercise2.exe
+D:\C# Project\Exercise2\Exercise2\obj\Debug\Exercise2.pdb

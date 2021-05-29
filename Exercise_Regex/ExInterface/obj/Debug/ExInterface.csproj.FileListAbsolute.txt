@@ -1,0 +1,12 @@
+C:\Users\chutr\source\repos\Exercise_Regex\ExInterface\bin\Debug\ExInterface.exe
+C:\Users\chutr\source\repos\Exercise_Regex\ExInterface\bin\Debug\ExInterface.pdb
+C:\Users\chutr\source\repos\Exercise_Regex\ExInterface\obj\Debug\ExInterface.csprojAssemblyReference.cache
+C:\Users\chutr\source\repos\Exercise_Regex\ExInterface\obj\Debug\ExInterface.csproj.CoreCompileInputs.cache
+C:\Users\chutr\source\repos\Exercise_Regex\ExInterface\obj\Debug\ExInterface.exe
+C:\Users\chutr\source\repos\Exercise_Regex\ExInterface\obj\Debug\ExInterface.pdb
+D:\C# Project\Exercise_Regex\ExInterface\bin\Debug\ExInterface.exe
+D:\C# Project\Exercise_Regex\ExInterface\bin\Debug\ExInterface.pdb
+D:\C# Project\Exercise_Regex\ExInterface\obj\Debug\ExInterface.csprojAssemblyReference.cache
+D:\C# Project\Exercise_Regex\ExInterface\obj\Debug\ExInterface.csproj.CoreCompileInputs.cache
+D:\C# Project\Exercise_Regex\ExInterface\obj\Debug\ExInterface.exe
+D:\C# Project\Exercise_Regex\ExInterface\obj\Debug\ExInterface.pdb

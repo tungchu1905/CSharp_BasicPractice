@@ -1,0 +1,6 @@
+D:\C# Project\Exercise2\Ex2.11_ObjectCar\bin\Debug\Ex2.11_ObjectCar.exe
+D:\C# Project\Exercise2\Ex2.11_ObjectCar\bin\Debug\Ex2.11_ObjectCar.pdb
+D:\C# Project\Exercise2\Ex2.11_ObjectCar\obj\Debug\Ex2.11_ObjectCar.csproj.CoreCompileInputs.cache
+D:\C# Project\Exercise2\Ex2.11_ObjectCar\obj\Debug\Ex2.11_ObjectCar.exe
+D:\C# Project\Exercise2\Ex2.11_ObjectCar\obj\Debug\Ex2.11_ObjectCar.pdb
+D:\C# Project\Exercise2\Ex2.11_ObjectCar\obj\Debug\Ex2.11_ObjectCar.csprojAssemblyReference.cache

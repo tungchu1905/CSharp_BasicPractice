@@ -1,0 +1,6 @@
+C:\Users\chutr\source\repos\Exercise_Regex\Exercise_Regex\obj\Debug\Exercise_Regex.csprojAssemblyReference.cache
+C:\Users\chutr\source\repos\Exercise_Regex\Exercise_Regex\obj\Debug\Exercise_Regex.csproj.CoreCompileInputs.cache
+C:\Users\chutr\source\repos\Exercise_Regex\Exercise_Regex\bin\Debug\Exercise_Regex.exe
+C:\Users\chutr\source\repos\Exercise_Regex\Exercise_Regex\bin\Debug\Exercise_Regex.pdb
+C:\Users\chutr\source\repos\Exercise_Regex\Exercise_Regex\obj\Debug\Exercise_Regex.exe
+C:\Users\chutr\source\repos\Exercise_Regex\Exercise_Regex\obj\Debug\Exercise_Regex.pdb

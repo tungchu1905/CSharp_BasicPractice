@@ -1,0 +1,6 @@
+C:\Users\thopn\Desktop\Ex4_Review_OOP\Ex4_Review_OOP\bin\Debug\Ex4_Review_OOP.exe
+C:\Users\thopn\Desktop\Ex4_Review_OOP\Ex4_Review_OOP\bin\Debug\Ex4_Review_OOP.pdb
+C:\Users\thopn\Desktop\Ex4_Review_OOP\Ex4_Review_OOP\obj\Debug\Ex4_Review_OOP.csprojAssemblyReference.cache
+C:\Users\thopn\Desktop\Ex4_Review_OOP\Ex4_Review_OOP\obj\Debug\Ex4_Review_OOP.csproj.CoreCompileInputs.cache
+C:\Users\thopn\Desktop\Ex4_Review_OOP\Ex4_Review_OOP\obj\Debug\Ex4_Review_OOP.exe
+C:\Users\thopn\Desktop\Ex4_Review_OOP\Ex4_Review_OOP\obj\Debug\Ex4_Review_OOP.pdb

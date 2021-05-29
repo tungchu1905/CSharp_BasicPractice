@@ -1,0 +1,6 @@
+D:\C# Project\Exercise3\Ex3.OOP.BAI3\bin\Debug\Ex3.OOP.BAI3.exe
+D:\C# Project\Exercise3\Ex3.OOP.BAI3\bin\Debug\Ex3.OOP.BAI3.pdb
+D:\C# Project\Exercise3\Ex3.OOP.BAI3\obj\Debug\Ex3.OOP.BAI3.csprojAssemblyReference.cache
+D:\C# Project\Exercise3\Ex3.OOP.BAI3\obj\Debug\Ex3.OOP.BAI3.csproj.CoreCompileInputs.cache
+D:\C# Project\Exercise3\Ex3.OOP.BAI3\obj\Debug\Ex3.OOP.BAI3.exe
+D:\C# Project\Exercise3\Ex3.OOP.BAI3\obj\Debug\Ex3.OOP.BAI3.pdb

@@ -1,0 +1,6 @@
+D:\C# Project\Exercise2\Ex2.13_Alphabetic\bin\Debug\Ex2.13_Alphabetic.exe
+D:\C# Project\Exercise2\Ex2.13_Alphabetic\bin\Debug\Ex2.13_Alphabetic.pdb
+D:\C# Project\Exercise2\Ex2.13_Alphabetic\obj\Debug\Ex2.13_Alphabetic.csprojAssemblyReference.cache
+D:\C# Project\Exercise2\Ex2.13_Alphabetic\obj\Debug\Ex2.13_Alphabetic.csproj.CoreCompileInputs.cache
+D:\C# Project\Exercise2\Ex2.13_Alphabetic\obj\Debug\Ex2.13_Alphabetic.exe
+D:\C# Project\Exercise2\Ex2.13_Alphabetic\obj\Debug\Ex2.13_Alphabetic.pdb

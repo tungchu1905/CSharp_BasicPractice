@@ -1,0 +1,5 @@
+D:\C# Project\Exercise2\Ex2.4\bin\Debug\Ex2.4.exe
+D:\C# Project\Exercise2\Ex2.4\bin\Debug\Ex2.4.pdb
+D:\C# Project\Exercise2\Ex2.4\obj\Debug\Ex2.4.csproj.CoreCompileInputs.cache
+D:\C# Project\Exercise2\Ex2.4\obj\Debug\Ex2.4.exe
+D:\C# Project\Exercise2\Ex2.4\obj\Debug\Ex2.4.pdb

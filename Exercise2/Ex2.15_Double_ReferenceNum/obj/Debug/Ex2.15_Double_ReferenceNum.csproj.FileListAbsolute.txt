@@ -1,0 +1,5 @@
+D:\C# Project\Exercise2\Ex2.15_Double_ReferenceNum\bin\Debug\Ex2.15_Double_ReferenceNum.exe
+D:\C# Project\Exercise2\Ex2.15_Double_ReferenceNum\bin\Debug\Ex2.15_Double_ReferenceNum.pdb
+D:\C# Project\Exercise2\Ex2.15_Double_ReferenceNum\obj\Debug\Ex2.15_Double_ReferenceNum.csproj.CoreCompileInputs.cache
+D:\C# Project\Exercise2\Ex2.15_Double_ReferenceNum\obj\Debug\Ex2.15_Double_ReferenceNum.exe
+D:\C# Project\Exercise2\Ex2.15_Double_ReferenceNum\obj\Debug\Ex2.15_Double_ReferenceNum.pdb

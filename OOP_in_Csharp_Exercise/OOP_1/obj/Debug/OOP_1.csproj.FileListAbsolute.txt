@@ -1,0 +1,6 @@
+D:\C# Project\OOP_in_Csharp_Exercise\OOP_1\bin\Debug\OOP_1.exe
+D:\C# Project\OOP_in_Csharp_Exercise\OOP_1\bin\Debug\OOP_1.pdb
+D:\C# Project\OOP_in_Csharp_Exercise\OOP_1\obj\Debug\OOP_1.csprojAssemblyReference.cache
+D:\C# Project\OOP_in_Csharp_Exercise\OOP_1\obj\Debug\OOP_1.csproj.CoreCompileInputs.cache
+D:\C# Project\OOP_in_Csharp_Exercise\OOP_1\obj\Debug\OOP_1.exe
+D:\C# Project\OOP_in_Csharp_Exercise\OOP_1\obj\Debug\OOP_1.pdb

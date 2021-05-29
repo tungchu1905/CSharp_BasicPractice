@@ -1,0 +1,6 @@
+D:\C# Project\Exercise3\Exercise3\bin\Debug\Exercise3.exe
+D:\C# Project\Exercise3\Exercise3\bin\Debug\Exercise3.pdb
+D:\C# Project\Exercise3\Exercise3\obj\Debug\Bai1.csprojAssemblyReference.cache
+D:\C# Project\Exercise3\Exercise3\obj\Debug\Bai1.csproj.CoreCompileInputs.cache
+D:\C# Project\Exercise3\Exercise3\obj\Debug\Exercise3.exe
+D:\C# Project\Exercise3\Exercise3\obj\Debug\Exercise3.pdb

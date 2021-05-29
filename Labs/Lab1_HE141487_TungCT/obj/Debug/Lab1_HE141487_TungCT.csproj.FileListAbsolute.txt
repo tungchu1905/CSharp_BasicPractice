@@ -1,0 +1,6 @@
+D:\C# Project\Labs\Lab1_HE141487_TungCT\bin\Debug\Lab1_HE141487_TungCT.exe
+D:\C# Project\Labs\Lab1_HE141487_TungCT\bin\Debug\Lab1_HE141487_TungCT.pdb
+D:\C# Project\Labs\Lab1_HE141487_TungCT\obj\Debug\Lab1_HE141487_TungCT.csprojAssemblyReference.cache
+D:\C# Project\Labs\Lab1_HE141487_TungCT\obj\Debug\Lab1_HE141487_TungCT.csproj.CoreCompileInputs.cache
+D:\C# Project\Labs\Lab1_HE141487_TungCT\obj\Debug\Lab1_HE141487_TungCT.exe
+D:\C# Project\Labs\Lab1_HE141487_TungCT\obj\Debug\Lab1_HE141487_TungCT.pdb

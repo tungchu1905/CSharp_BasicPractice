@@ -1,0 +1,5 @@
+D:\C# Project\Exercise2\Ex2.14_IsNumber\bin\Debug\Ex2.14_IsNumber.exe
+D:\C# Project\Exercise2\Ex2.14_IsNumber\bin\Debug\Ex2.14_IsNumber.pdb
+D:\C# Project\Exercise2\Ex2.14_IsNumber\obj\Debug\Ex2.14_IsNumber.csproj.CoreCompileInputs.cache
+D:\C# Project\Exercise2\Ex2.14_IsNumber\obj\Debug\Ex2.14_IsNumber.exe
+D:\C# Project\Exercise2\Ex2.14_IsNumber\obj\Debug\Ex2.14_IsNumber.pdb
