@@ -40,6 +40,17 @@ namespace Bai3
             btnCreate = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
+            // btnCreate
+            // 
+            btnCreate.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
+            btnCreate.Location = new System.Drawing.Point(344, 235);
+            btnCreate.Name = "btnCreate";
+            btnCreate.Size = new System.Drawing.Size(113, 45);
+            btnCreate.TabIndex = 3;
+            btnCreate.Text = "Tao don hang";
+            btnCreate.UseVisualStyleBackColor = true;
+            btnCreate.Click += new System.EventHandler(this.btnCreate_Click);
+            // 
             // listBox1
             // 
             this.listBox1.FormattingEnabled = true;
@@ -71,17 +82,6 @@ namespace Bai3
             this.txtAddress.Name = "txtAddress";
             this.txtAddress.Size = new System.Drawing.Size(219, 145);
             this.txtAddress.TabIndex = 2;
-            // 
-            // btnCreate
-            // 
-            btnCreate.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
-            btnCreate.Location = new System.Drawing.Point(344, 235);
-            btnCreate.Name = "btnCreate";
-            btnCreate.Size = new System.Drawing.Size(113, 45);
-            btnCreate.TabIndex = 3;
-            btnCreate.Text = "Tao don hang";
-            btnCreate.UseVisualStyleBackColor = true;
-            btnCreate.Click += new System.EventHandler(this.btnCreate_Click);
             // 
             // txtdiachi
             // 
@@ -132,6 +132,7 @@ namespace Bai3
             this.Controls.Add(this.listBox1);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
